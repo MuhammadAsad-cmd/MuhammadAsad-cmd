@@ -1,6 +1,6 @@
 # 💫 About Me:I'm Muhammad Asad.
-A passionate frontend developer from Pakistan
-🔭 I’m currently working on Mern Stack <br>👯 I’m looking to collaborate on Open Source Projects <br><br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+A passionate frontend developer from Pakistan <br>
+🔭 I’m currently working on Mern Stack <br>👯 I’m looking to collaborate on Open Source Projects
 
 
 ## 🌐 Socials:
