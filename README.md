@@ -32,7 +32,7 @@ Passionate Full-Stack Developer with expertise in web development using modern J
 Building high-performance applications with a focus on scalability, exploring server-side rendering in Next.js, and diving deeper into API integration techniques.
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/muhammad-asad) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/asad189/)) | [Email](mailto:ma6530028@gmail.com)
 
 ---
 
@@ -50,6 +50,10 @@ Building high-performance applications with a focus on scalability, exploring se
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ---
 
