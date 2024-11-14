@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/username/banner.png" alt="Coder" width="100%" />
+<img src="[https://user-images.githubusercontent.com/username/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQGMYZ9v5JeahA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727552052299?e=1736985600&v=beta&t=aO6fEhKSKiHhEK92800-FrX_Kw1UZO_8URdWOMNiG74)" alt="Coder" width="100%" />
 
 # Hi there 👋, I'm Muhammad Asad
 
