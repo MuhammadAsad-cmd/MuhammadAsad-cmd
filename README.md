@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGMYZ9v5JeahA/profile-displaybackgroundimage-shrink_350_1400/0/1727552052299?e=1736985600&v=beta&t=aO6fEhKSKiHhEK92800-FrX_Kw1UZO_8URdWOMNiG74" alt="Coder" width="100%" />
+![Banner Image](https://raw.githubusercontent.com/abubakar-sarwar/abubakar-sarwar/main/banner.jpg)
+
 
 
 # Hi there 👋, I'm Muhammad Asad
@@ -19,12 +20,25 @@ Passionate Full-Stack Developer with expertise in web development using modern J
 
 - **Custom Animations & UI**  
   Created seamless, interactive user experiences by incorporating GSAP animations and responsive UI elements, enhancing the visual appeal and user engagement.
+  
+- **Responsive and Adaptive Design**  
+  Crafted fully responsive layouts that adapt to various devices and screen sizes, ensuring an optimal user experience across desktops, tablets, and mobile devices. Prioritized performance and fast loading times for mobile users.
+
+  - **User-Centric UI/UX Design**  
+  Emphasized user-centric design principles by conducting user research and iterative testing, creating interfaces that are both intuitive and visually appealing. Focused on enhancing usability, accessibility, and overall user satisfaction.
 
 - **Backend API Development**  
   Implemented backend features for various applications, ensuring efficient data handling, performance optimization, and secure authentication.
 
 - **Drag-and-Drop Functionality**  
   Developed custom drag-and-drop components without relying on external libraries, showcasing problem-solving skills and delivering a personalized UX.
+  
+- **Performance Optimization & Web Accessibility**  
+  Optimized web applications to improve load times and performance scores, implementing best practices for SEO and accessibility. Ensured compliance with WCAG standards to make applications accessible to all users, including those with disabilities.
+
+- **Dynamic Data Visualization**  
+  Integrated data visualization tools to dynamically display complex datasets, enhancing user understanding and engagement. Employed libraries like Chart.js and D3.js to provide real-time, interactive insights.
+
 
 ---
 
@@ -32,7 +46,7 @@ Passionate Full-Stack Developer with expertise in web development using modern J
 Building high-performance applications with a focus on scalability, exploring server-side rendering in Next.js, and diving deeper into API integration techniques.
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/asad189/)) | [Email](mailto:ma6530028@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/asad189/) | [Email](mailto:ma6530028@gmail.com)
 
 ---
 
